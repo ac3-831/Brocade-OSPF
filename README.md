@@ -23,5 +23,4 @@ config t
 router pim
 ip pim-sparse
 
-end
 
